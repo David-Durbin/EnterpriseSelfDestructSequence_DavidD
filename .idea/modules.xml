@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/EnterpriseSelfDestructSequence/EnterpriseSelfDestructSequence.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/EnterpriseSelfDestructSequence/EnterpriseSelfDestructSequence.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/EnterpriseSelfDestructSequence/app/app.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/EnterpriseSelfDestructSequence/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/EnterpriseSelfDestructSequence/lib/lib.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/EnterpriseSelfDestructSequence/lib/lib.iml" />
+    </modules>
+  </component>
+</project>
